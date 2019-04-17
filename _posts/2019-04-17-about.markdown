@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "技术交流 & 分享"
+date:   2019-04-17 20:30:38
+categories: Talk
+comments: false
+---
+
+# 技术交流 & 分享
+请认准：知识星球，名称：漏洞研究
+
+![barcode](../../../../static/img/barcode.jpg)
+
+![zhishixq](../../../../static/img/zhishixq.jpg)                           
