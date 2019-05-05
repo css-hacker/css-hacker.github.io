@@ -8,4 +8,4 @@ comments: false
 
 数据大屏
 
-![数据大屏](../../../../static/demo/index.html)                           
+![数据大屏](../../../../static/demo/)                           
